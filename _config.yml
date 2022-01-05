@@ -56,7 +56,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-3233-3243
   google-scholar: citations?user=9kekDjIAAAAJ&hl=en
 #  discord: invite/invite_code or users/userid 
 
